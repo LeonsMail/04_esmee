@@ -5,3 +5,6 @@ F:F
 
 
 #FFF7AE
+
+
+=AND(NOT(ISBLANK($E1)), ISBLANK($F1))
