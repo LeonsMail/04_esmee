@@ -8,3 +8,6 @@ F:F
 
 
 =AND(NOT(ISBLANK($E1)), ISBLANK($F1))
+
+
+=AND(NOT(ISBLANK($E1)), $F1=0)
