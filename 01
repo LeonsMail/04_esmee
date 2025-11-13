@@ -1,13 +1,3 @@
-=ISBLANK($F1)
+=COUNTIF($E:$E, $E1) > 1
 
-
-F:F
-
-
-#FFF7AE
-
-
-=AND(NOT(ISBLANK($E1)), ISBLANK($F1))
-
-
-=AND(NOT(ISBLANK($E1)), $F1=0)
+#FFD6E8
